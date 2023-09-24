@@ -1,5 +1,7 @@
 
-# Hi, I’m Yana Ten
+# Привет, я - Яна, frontend разработчик!
+- 👀 Интересуюсь web-разработкой, видеоиграми, книгами
+- 📫 моя почта: mmonikopp@gmail.com
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monikopp&theme=tokyonight)
 
 ## Contacts
